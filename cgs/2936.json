@@ -1,0 +1,72 @@
+{
+    "ptr_offset": 1339236,
+    "content": {
+        "pallete": [
+            {
+                "offset": 0,
+                "size": 1024
+            },
+            {
+                "offset": 1024,
+                "size": 1024
+            }
+        ],
+        "map": null,
+        "pixel": [
+            {
+                "format": "-pspindex8",
+                "offset": 2048,
+                "size": 2048,
+                "width": 256,
+                "height": 384,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    5280,
+                    10592,
+                    13712,
+                    14144
+                ],
+                "gzip_csizes": [
+                    5232,
+                    5296,
+                    3104,
+                    416
+                ],
+                "gzip_dsizes": [
+                    24576,
+                    24576,
+                    24576,
+                    24576
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 16384,
+                "size": 16384,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    9456,
+                    24656,
+                    39680,
+                    50192
+                ],
+                "gzip_csizes": [
+                    9408,
+                    15184,
+                    15008,
+                    10496
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            }
+        ]
+    }
+}
